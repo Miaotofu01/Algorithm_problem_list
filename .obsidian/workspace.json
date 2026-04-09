@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "164105957277e0ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5430f0b794f95c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58c8b7d3a2ce55b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名/红豆的题单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "红豆的题单"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72027f84cc482401",
+    "type": "split",
+    "children": [
+      {
+        "id": "943d0d7d65de819a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a9a5acf11f6b735",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0785ccb6833d228d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d4e974f5646e36eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "e1615a626a8e1376",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bfaf50f49ea9bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992e81c993db650c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "阶乘求和.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "阶乘求和 的反向链接列表"
+            }
+          },
+          {
+            "id": "232707d48e9a98d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "阶乘求和.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "阶乘求和 的出链列表"
+            }
+          },
+          {
+            "id": "edc333300ff07b04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "521f3c857cbda7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "阶乘求和.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "阶乘求和 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "2a9a5acf11f6b735",
+  "lastOpenFiles": [
+    "未命名/红豆的题单.md",
+    "未命名",
+    "贪心/最大化括号序列长度.md",
+    "未命名.md",
+    "贪心/最大化两数组差的最小值.md",
+    "贪心/构造最小回文子数组.md",
+    "暴力枚举/集合合并.md",
+    "交互题/a交互题总结.md",
+    "暴力枚举/未命名.md",
+    "根号分治/未命名.md",
+    "字符串/相邻元素合成.md",
+    "字符串/Game with string.md",
+    "ZZZ杂项/A 常见子问题/双指针维护数组连续相同元素.md",
+    "根号分治",
+    "双指针/双指针维护滑动窗口内区间的数量、.md",
+    "动态规划/打鼹鼠.md",
+    "动态规划/大师（计数dp）.md",
+    "动态规划/导弹拦截.md",
+    "动态规划/统计不相交线段数量最大值.md",
+    "动态规划/区块子数组.md",
+    "动态规划/Not Alone（环形数组dp).md",
+    "交互题",
+    "数学/数论/未命名.md",
+    "ZZZ杂项/AAA招新题/招新题.md",
+    "数据结构/子数组与子序列.md",
+    "ZZZ杂项/A 常见子问题/统计连通分量.md",
+    "ZZZ杂项/A 常见子问题/回文的判断.md",
+    "2025-08-22.md",
+    "2025-09-17.md",
+    "ZZZ杂项/attachment/Pasted image 20250725201506.png",
+    "ZZZ杂项/attachment/Pasted image 20250725201452.png",
+    "ZZZ杂项/attachment/Pasted image 20250725201029.png",
+    "ZZZ杂项/attachment/Pasted image 20250725200955.png",
+    "招新题单",
+    "暴力枚举",
+    "数学/组合数学",
+    "数学/数论/未命名",
+    "特殊问题",
+    "ZZZ杂项/attachment",
+    "数据结构"
+  ]
+}
