@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "红豆的题单.md",
+                "file": "蓝桥杯/2026省赛cb题解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "红豆的题单"
+              "title": "2026省赛cb题解"
             }
           }
         ]
@@ -171,8 +171,11 @@
   },
   "active": "2a9a5acf11f6b735",
   "lastOpenFiles": [
+    "蓝桥杯/2026省赛cb题解/未命名.md",
+    "蓝桥杯/2026省赛cb题解.md",
     "红豆的题单.md",
-    "未命名",
+    "蓝桥杯/2026省赛cb题解",
+    "蓝桥杯",
     "贪心/最大化括号序列长度.md",
     "未命名.md",
     "贪心/最大化两数组差的最小值.md",
@@ -198,8 +201,6 @@
     "数据结构/子数组与子序列.md",
     "ZZZ杂项/A 常见子问题/统计连通分量.md",
     "ZZZ杂项/A 常见子问题/回文的判断.md",
-    "2025-08-22.md",
-    "2025-09-17.md",
     "ZZZ杂项/attachment/Pasted image 20250725201506.png",
     "ZZZ杂项/attachment/Pasted image 20250725201452.png",
     "ZZZ杂项/attachment/Pasted image 20250725201029.png",
@@ -209,7 +210,6 @@
     "数学/组合数学",
     "数学/数论/未命名",
     "特殊问题",
-    "ZZZ杂项/attachment",
-    "数据结构"
+    "ZZZ杂项/attachment"
   ]
 }
