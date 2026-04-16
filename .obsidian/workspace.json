@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e1615a626a8e1376",
@@ -169,7 +170,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "2a9a5acf11f6b735",
+  "active": "58c8b7d3a2ce55b8",
   "lastOpenFiles": [
     "蓝桥杯/2026省赛cb题解/未命名.md",
     "蓝桥杯/2026省赛cb题解.md",
